@@ -1,17 +1,14 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
-He is currently a Fellow in the Department of Earth and Planetary Sciences (EPS) at Harvard University.
+Yes, it is.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: fangliyao[at]mails.swust.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+School of Information Engineering, Southwest University of Science and Technology, Mianyang, China.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+His current interests include AI4Sciences (aerodynamics).
 
